@@ -104,7 +104,7 @@ namespace ApartmentManager
         {
             try
             {
-                if (txt_elec_start.Text == "")
+                /*if (txt_elec_start.Text == "")
                 {
                     txt_elec_start.Text = "0";
                 }
@@ -115,18 +115,25 @@ namespace ApartmentManager
                 if (txt_elec_unit_price.Text == "")
                 {
                     txt_elec_unit_price.Text = "0";
-                }
-                float elec_start = Convert.ToSingle(txt_elec_start.Text);
-                float elec_end = Convert.ToSingle(txt_elec_end.Text);
-                float elec_unit_price = Convert.ToSingle(txt_elec_unit_price.Text);
-
-                if (elec_end >= elec_start)
+                }*/
+                if (txt_elec_start.Text != "" && txt_elec_end.Text != "" && txt_elec_unit_price.Text != "")
                 {
-                    txt_elec_cost.Text = string.Format("{0:f}", elec_unit_price * (elec_end - elec_start));
+                    float elec_start = Convert.ToSingle(txt_elec_start.Text);
+                    float elec_end = Convert.ToSingle(txt_elec_end.Text);
+                    float elec_unit_price = Convert.ToSingle(txt_elec_unit_price.Text);
+
+                    if (elec_end >= elec_start)
+                    {
+                        txt_elec_cost.Text = string.Format("{0:f}", elec_unit_price * (elec_end - elec_start));
+                    }
+                    else
+                    {
+                        txt_elec_cost.Text = "0";
+                    }
                 }
                 else
                 {
-                    txt_elec_cost.Text = "0";
+                    txt_elec_cost.Text = "";
                 }
             }
             catch (Exception)
@@ -139,7 +146,7 @@ namespace ApartmentManager
         {
             try
             {
-                if (txt_water_start.Text == "")
+                /*if (txt_water_start.Text == "")
                 {
                     txt_water_start.Text = "0";
                 }
@@ -150,19 +157,25 @@ namespace ApartmentManager
                 if (txt_water_unit_price.Text == "")
                 {
                     txt_water_unit_price.Text = "0";
-                }
-                float water_start = Convert.ToSingle(txt_water_start.Text);
-                float water_end = Convert.ToSingle(txt_water_end.Text);
-                
-                float water_unit_price = Convert.ToSingle(txt_water_unit_price.Text);
-
-                if (water_end > water_start)
+                }*/
+                if (txt_water_start.Text != "" && txt_water_end.Text != "" && txt_water_unit_price.Text != "")
                 {
-                    txt_water_cost.Text = string.Format("{0:f}", water_unit_price * (water_end - water_start));
+                    float water_start = Convert.ToSingle(txt_water_start.Text);
+                    float water_end = Convert.ToSingle(txt_water_end.Text);
+                    float water_unit_price = Convert.ToSingle(txt_water_unit_price.Text);
+
+                    if (water_end >= water_start)
+                    {
+                        txt_water_cost.Text = string.Format("{0:f}", water_unit_price * (water_end - water_start));
+                    }
+                    else
+                    {
+                        txt_water_cost.Text = "0";
+                    }
                 }
                 else
                 {
-                    txt_water_cost.Text = "0";
+                    txt_water_cost.Text = "";
                 }
             }
             catch (Exception)

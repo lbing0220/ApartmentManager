@@ -16,7 +16,7 @@ using System.IO;
 
 namespace ApartmentManager
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form_Template
     {
         public Form1()
         {
