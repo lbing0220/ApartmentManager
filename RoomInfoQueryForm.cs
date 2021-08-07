@@ -143,11 +143,11 @@ namespace ApartmentManager
                     }
                 }
                 dataGridView1.DataSource = dt;
-                //获取ds.Tables["Room_Info"]的第一行数据
+                //获取dt的第一行数据
                 try
                 {
-                    DataRow last_dr = dt.AsEnumerable().First<DataRow>();
-                    idFlag = Convert.ToInt32(last_dr["ID"].ToString());
+                    DataRow first_dr = dt.AsEnumerable().First<DataRow>();
+                    idFlag = Convert.ToInt32(first_dr["ID"].ToString());
                 }
                 catch
                 {
@@ -165,6 +165,17 @@ namespace ApartmentManager
             {
                 lab_reminder.Text = "数据库检索失败，暂未录入该楼层或该房间数据!!!";
                 dataGridView1.DataSource = null;
+                try
+                {
+                    //获取ds.Tables["Room_Info"]的最后一行数据
+                    DataRow last_dr = ds.Tables["Room_Info"].AsEnumerable().Last<DataRow>();
+                    idFlag = Convert.ToInt32(last_dr["ID"].ToString()) + 1;
+                }
+                catch
+                {
+                    //数据库为空，idFlag设定为超级大数值，方便数据插入
+                    idFlag = 100000;
+                }
             }
         }
 
