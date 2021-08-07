@@ -454,7 +454,8 @@ namespace ApartmentManager
             dr["Owner_Checkin_Date"] = dtp_checkin_date.Value.ToShortDateString();
             dr["Owner_Checkout_Date"] = dtp_checkout_date.Value.ToShortDateString() ;
             dr["Elec_Start"] = txt_elec_start.Text.Trim();
-            dr["Elec_End"] = txt_elec_end.Text.Trim(); if (txt_room_money.Text == "")
+            dr["Elec_End"] = txt_elec_end.Text.Trim(); 
+            if (txt_room_money.Text == "")
             {
                 txt_room_money.Text = "0";
             }
@@ -477,7 +478,7 @@ namespace ApartmentManager
             {
                 txt_room_money2.Text = "0";
             }
-            dr["Room_Money"] = (Convert.ToSingle(txt_room_money.Text.Trim()) + Convert.ToSingle(txt_room_money.Text.Trim())).ToString();
+            dr["Room_Money"] = (Convert.ToSingle(txt_room_money.Text.Trim()) + Convert.ToSingle(txt_room_money2.Text.Trim())).ToString();
             dr["Room_Summary"] = txt_room_summary.Text.Trim();
             dt.Rows.Add(dr);
             ocb = new OdbcCommandBuilder(oda);
@@ -506,12 +507,12 @@ namespace ApartmentManager
             if (modifyOrAddFlag)
             {
                 ModifyValue2DB();
-                MessageBox.Show("数据修改成功");
+                MessageBox.Show("数据修改成功","修改提示");
             }
             else
             {
                 AddNewRows2DB();
-                MessageBox.Show("数据插入成功");
+                MessageBox.Show("数据插入成功","插入提示");
             }
             //使用多线程去备份数据文件
             Thread myThread = new(new ThreadStart(AccessDbBak));
