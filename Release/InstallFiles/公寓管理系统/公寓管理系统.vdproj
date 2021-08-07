@@ -15,7 +15,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_004D0D941B884FAF999A8E5CEF45FE87"
+        "MsmKey" = "8:_08086534D9904D35AD1BC9FBD79A4D4E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -33,19 +33,19 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_1CF67C96D06A4001829F9CEE2DE8182E"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_1EED394E8953D599FC861840556FDCDA"
         "OwnerKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_2149A3BF8A8747E0B810B555AF582256"
+        "MsmKey" = "8:_22222EB00E7844A88C9D4EE4B7A84FB7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2264F4BC232C43B8ACD4D00BBE5C317A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -75,20 +75,14 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_3B43FBDFE466B199EA847BF1F6B82EA4"
+        "OwnerKey" = "8:_C99D4BABCB434D2DA025E1F27C1FAA49"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3F7AB36D33EB182E6F00539010B5D3DB"
         "OwnerKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_4023473E534441B5A4B319F362777F32"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_54D75C87867E4527BA2DE450E93E9DA9"
-        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -99,13 +93,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_77A7CC9F1D8E4C58930F85D735D2A86A"
+        "MsmKey" = "8:_83DAD5EFD10F419B94C2057CC5A7BCD8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_808E5E7EC13A4757B29CB817FFD58963"
+        "MsmKey" = "8:_911407D582994F9589E20DF0C2825B89"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -123,32 +117,32 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_96330A6DD25A4395922D91DD8FB937E2"
+        "MsmKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
+        "OwnerKey" = "8:_3B43FBDFE466B199EA847BF1F6B82EA4"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
+        "OwnerKey" = "8:_83DAD5EFD10F419B94C2057CC5A7BCD8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A3B659E3D4BE4BCCA14444DD5381C346"
         "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
-        "OwnerKey" = "8:_AADCD7B8B0041B80670206C11D330E4A"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
-        "OwnerKey" = "8:_004D0D941B884FAF999A8E5CEF45FE87"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AADCD7B8B0041B80670206C11D330E4A"
-        "OwnerKey" = "8:_96330A6DD25A4395922D91DD8FB937E2"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_ACF35B140E9EAB70A0772E2AFE92043E"
         "OwnerKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF12B1D941CB4575A6BC605A4798CF7A"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -165,14 +159,14 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_C6FEFBC0372D4B65AB6EC5700331AB14"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_C78BE19AF2632ED90D9A30D3965E5AA2"
+        "OwnerKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_C78BE19AF2632ED90D9A30D3965E5AA2"
-        "OwnerKey" = "8:_9AE3B37B0C8A803EF2430813FB7CE1CD"
+        "MsmKey" = "8:_C99D4BABCB434D2DA025E1F27C1FAA49"
+        "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -195,12 +189,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_F80CC61A2721483C9A38FD3FA00B4359"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_B9D39BE1CB1B1273119CA56AF4BE63C8"
         "MsmSig" = "8:_UNDEFINED"
@@ -208,7 +196,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_96330A6DD25A4395922D91DD8FB937E2"
+        "OwnerKey" = "8:_C99D4BABCB434D2DA025E1F27C1FAA49"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -325,6 +313,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -341,6 +337,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -370,21 +374,10 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_004D0D941B884FAF999A8E5CEF45FE87"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_08086534D9904D35AD1BC9FBD79A4D4E"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Data.Odbc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_004D0D941B884FAF999A8E5CEF45FE87"
-                    {
-                    "Name" = "8:System.Data.Odbc.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\System.Data.Odbc.dll"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.runtimeconfig.json"
+            "TargetName" = "8:ApartmentManager.runtimeconfig.json"
             "Tag" = "8:"
             "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Condition" = "8:"
@@ -463,26 +456,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1CF67C96D06A4001829F9CEE2DE8182E"
-            {
-            "SourcePath" = "8:..\\..\\ApartmentManager.deps.json"
-            "TargetName" = "8:ApartmentManager.deps.json"
-            "Tag" = "8:"
-            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_1EED394E8953D599FC861840556FDCDA"
             {
             "AssemblyRegister" = "3:1"
@@ -514,10 +487,30 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2149A3BF8A8747E0B810B555AF582256"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_22222EB00E7844A88C9D4EE4B7A84FB7"
             {
-            "SourcePath" = "8:..\\..\\ApartmentManager.pdb"
-            "TargetName" = "8:ApartmentManager.pdb"
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.exe"
+            "TargetName" = "8:ApartmentManager.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2264F4BC232C43B8ACD4D00BBE5C317A"
+            {
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.dll.config"
+            "TargetName" = "8:ApartmentManager.dll.config"
             "Tag" = "8:"
             "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Condition" = "8:"
@@ -658,6 +651,37 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3B43FBDFE466B199EA847BF1F6B82EA4"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data.Odbc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_3B43FBDFE466B199EA847BF1F6B82EA4"
+                    {
+                    "Name" = "8:System.Data.Odbc.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Data.Odbc.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3F7AB36D33EB182E6F00539010B5D3DB"
             {
             "AssemblyRegister" = "3:1"
@@ -687,57 +711,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4023473E534441B5A4B319F362777F32"
-            {
-            "SourcePath" = "8:..\\..\\ApartmentManager.runtimeconfig.json"
-            "TargetName" = "8:ApartmentManager.runtimeconfig.json"
-            "Tag" = "8:"
-            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_54D75C87867E4527BA2DE450E93E9DA9"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Data.Odbc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_54D75C87867E4527BA2DE450E93E9DA9"
-                    {
-                    "Name" = "8:System.Data.Odbc.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\runtimes\\win\\lib\\netcoreapp2.0\\System.Data.Odbc.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_72CAB808AB2B453683FB4E7C6F16732C"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_76B79E544F15101D55E4DF630B831A1F"
@@ -771,10 +744,21 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_77A7CC9F1D8E4C58930F85D735D2A86A"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_83DAD5EFD10F419B94C2057CC5A7BCD8"
             {
-            "SourcePath" = "8:..\\..\\ApartmentManager.dll.config"
-            "TargetName" = "8:ApartmentManager.dll.config"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Data.Odbc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_83DAD5EFD10F419B94C2057CC5A7BCD8"
+                    {
+                    "Name" = "8:System.Data.Odbc.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\System.Data.Odbc.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Condition" = "8:"
@@ -791,10 +775,10 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_808E5E7EC13A4757B29CB817FFD58963"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_911407D582994F9589E20DF0C2825B89"
             {
-            "SourcePath" = "8:..\\..\\README.md"
-            "TargetName" = "8:README.md"
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.pdb"
+            "TargetName" = "8:ApartmentManager.pdb"
             "Tag" = "8:"
             "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Condition" = "8:"
@@ -842,37 +826,6 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_96330A6DD25A4395922D91DD8FB937E2"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:ApartmentManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_96330A6DD25A4395922D91DD8FB937E2"
-                    {
-                    "Name" = "8:ApartmentManager.dll"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:..\\..\\ApartmentManager.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9AE3B37B0C8A803EF2430813FB7CE1CD"
             {
             "AssemblyRegister" = "3:1"
@@ -904,21 +857,10 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AADCD7B8B0041B80670206C11D330E4A"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A3B659E3D4BE4BCCA14444DD5381C346"
             {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:System.Data.Odbc, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_AADCD7B8B0041B80670206C11D330E4A"
-                    {
-                    "Name" = "8:System.Data.Odbc.DLL"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:System.Data.Odbc.DLL"
-            "TargetName" = "8:"
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.runtimeconfig.dev.json"
+            "TargetName" = "8:ApartmentManager.runtimeconfig.dev.json"
             "Tag" = "8:"
             "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Condition" = "8:"
@@ -932,7 +874,7 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_ACF35B140E9EAB70A0772E2AFE92043E"
@@ -964,6 +906,26 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AF12B1D941CB4575A6BC605A4798CF7A"
+            {
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.deps.json"
+            "TargetName" = "8:ApartmentManager.deps.json"
+            "Tag" = "8:"
+            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B9D39BE1CB1B1273119CA56AF4BE63C8"
@@ -1017,26 +979,6 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C6FEFBC0372D4B65AB6EC5700331AB14"
-            {
-            "SourcePath" = "8:..\\..\\Test.accdb"
-            "TargetName" = "8:Test.accdb"
-            "Tag" = "8:"
-            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C78BE19AF2632ED90D9A30D3965E5AA2"
             {
             "AssemblyRegister" = "3:1"
@@ -1066,6 +1008,37 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C99D4BABCB434D2DA025E1F27C1FAA49"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ApartmentManager, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_C99D4BABCB434D2DA025E1F27C1FAA49"
+                    {
+                    "Name" = "8:ApartmentManager.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\..\\bin\\Debug\\net5.0-windows\\ApartmentManager.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D04F0BA33EF8E9A6033B103BE377EDBC"
@@ -1159,26 +1132,6 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F80CC61A2721483C9A38FD3FA00B4359"
-            {
-            "SourcePath" = "8:..\\..\\ApartmentManager.exe"
-            "TargetName" = "8:ApartmentManager.exe"
-            "Tag" = "8:"
-            "Folder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
         }
@@ -1402,7 +1355,7 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_7F90DDDE790C404983E27D3479C2307F"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_2627125D1B8F4F058262B4FEE4F38E64"
             {
             "Name" = "8:公寓管理系统"
             "Arguments" = "8:"
@@ -1410,13 +1363,13 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F80CC61A2721483C9A38FD3FA00B4359"
-            "Folder" = "8:_A26A59E5BE4F46E89EA338D9B3A0D1AD"
+            "Target" = "8:_22222EB00E7844A88C9D4EE4B7A84FB7"
+            "Folder" = "8:_94AF98B8C83B406E83639B4C1BD6162A"
             "WorkingFolder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Icon" = "8:_BA5EE8EAC3B242CF847D82657035F643"
             "Feature" = "8:"
             }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_9B6A8514941740D08B3B253245EF97F1"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F45BD5078EE542E698406032D67388D1"
             {
             "Name" = "8:公寓管理系统"
             "Arguments" = "8:"
@@ -1424,8 +1377,8 @@
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_F80CC61A2721483C9A38FD3FA00B4359"
-            "Folder" = "8:_94AF98B8C83B406E83639B4C1BD6162A"
+            "Target" = "8:_22222EB00E7844A88C9D4EE4B7A84FB7"
+            "Folder" = "8:_A26A59E5BE4F46E89EA338D9B3A0D1AD"
             "WorkingFolder" = "8:_E1808A3236CE4B50B809E79DBF5A042D"
             "Icon" = "8:_BA5EE8EAC3B242CF847D82657035F643"
             "Feature" = "8:"
