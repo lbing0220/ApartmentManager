@@ -143,6 +143,10 @@ namespace ApartmentManager
                     }
                 }
                 dataGridView1.DataSource = dt;
+                for (int i = 0; i < strArray.Length; i++)
+                {
+                    dataGridView1.Columns[i].HeaderText = strArray[i];
+                }
                 //获取dt的第一行数据
                 try
                 {

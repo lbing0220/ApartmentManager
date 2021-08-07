@@ -1282,7 +1282,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:公寓管理系统"
         "ProductCode" = "8:{B47F7F28-632E-4913-BEF1-EE1D2FE5E906}"
-        "PackageCode" = "8:{D7E41DB7-2A05-47AD-9F00-3CCB8658E276}"
+        "PackageCode" = "8:{E4E8FD19-3104-4D2E-8468-C9BA82BB9EF6}"
         "UpgradeCode" = "8:{224E2A7E-7D0F-473E-B8CD-6C9D62312EF4}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
