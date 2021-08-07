@@ -287,10 +287,12 @@ namespace ApartmentManager
             if (result == DialogResult.OK)
             {
                 dbFilePath = opendbFileDialog.FileName;
+                MessageBox.Show("开启数据库备份功能，数据库位置：" + dbFilePath + "\n数据库修改后会即使备份", "数据库备份功能开启");      
             }
             else if(result == DialogResult.Cancel)
             {
                 dbFilePath = "";
+                MessageBox.Show("数据库备份功能已关闭", "数据库备份功能关闭");
             }
             UpdateAppSettings("AccessDBFilePath", dbFilePath);
             if (File.Exists(dbFilePath))

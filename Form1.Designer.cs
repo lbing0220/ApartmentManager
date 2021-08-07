@@ -44,6 +44,7 @@ namespace ApartmentManager
             this.txt_price = new System.Windows.Forms.TextBox();
             this.btn_query = new System.Windows.Forms.Button();
             this.opendbFileDialog = new System.Windows.Forms.OpenFileDialog();
+            this.label1 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -62,7 +63,7 @@ namespace ApartmentManager
             this.lab_title.AutoSize = true;
             this.lab_title.Font = new System.Drawing.Font("华文楷体", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lab_title.ForeColor = System.Drawing.Color.Red;
-            this.lab_title.Location = new System.Drawing.Point(299, 27);
+            this.lab_title.Location = new System.Drawing.Point(290, 20);
             this.lab_title.Name = "lab_title";
             this.lab_title.Size = new System.Drawing.Size(237, 30);
             this.lab_title.TabIndex = 1;
@@ -173,12 +174,24 @@ namespace ApartmentManager
             // opendbFileDialog
             // 
             this.opendbFileDialog.FileName = "openFileDialog1";
+            this.opendbFileDialog.Title = "请选择需要备份的Access数据库文件";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.label1.Location = new System.Drawing.Point(334, 48);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(153, 16);
+            this.label1.TabIndex = 14;
+            this.label1.Text = "(数据库备份请双击上方红色字体)";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 400);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_query);
             this.Controls.Add(this.txt_price);
             this.Controls.Add(this.btn_booking);
@@ -220,6 +233,7 @@ namespace ApartmentManager
         private System.Windows.Forms.TextBox txt_price;
         private System.Windows.Forms.Button btn_query;
         private System.Windows.Forms.OpenFileDialog opendbFileDialog;
+        private System.Windows.Forms.Label label1;
     }
 }
 
