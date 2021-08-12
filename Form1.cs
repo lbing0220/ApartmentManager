@@ -51,11 +51,20 @@ namespace ApartmentManager
             this.dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             
             UpdateDictionary();
-            
 
-            //使用多线程去备份数据文件
-            Thread myThread = new(new ThreadStart(AccessDbBak));
-            myThread.Start();
+            if (File.Exists(GetAppSettings("AccessDBFilePath")))
+            {
+                lab_db_reminder.Text = "(数据库备份请双击上方红色字体)√已开启";
+                //使用多线程去备份数据文件
+                Thread myThread = new(new ThreadStart(AccessDbBak));
+                myThread.Start();
+            }
+            else
+            {
+                lab_db_reminder.Text = "(数据库备份请双击上方红色字体)✕已关闭";
+            }
+
+            
         }
         
         private void cbb_floor_TextChanged(object sender, EventArgs e)
@@ -287,12 +296,15 @@ namespace ApartmentManager
             if (result == DialogResult.OK)
             {
                 dbFilePath = opendbFileDialog.FileName;
-                MessageBox.Show("开启数据库备份功能，数据库位置：" + dbFilePath + "\n数据库修改后会即使备份", "数据库备份功能开启");      
+                MessageBox.Show("开启数据库备份功能，数据库位置：" + dbFilePath + "\n数据库修改后会即使备份", "数据库备份功能开启");
+                lab_db_reminder.Text = "(数据库备份请双击上方红色字体)√已开启";
             }
             else if(result == DialogResult.Cancel)
             {
                 dbFilePath = "";
                 MessageBox.Show("数据库备份功能已关闭", "数据库备份功能关闭");
+                lab_db_reminder.Text = "(数据库备份请双击上方红色字体)✕已关闭";
+
             }
             UpdateAppSettings("AccessDBFilePath", dbFilePath);
             if (File.Exists(dbFilePath))

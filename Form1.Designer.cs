@@ -44,7 +44,7 @@ namespace ApartmentManager
             this.txt_price = new System.Windows.Forms.TextBox();
             this.btn_query = new System.Windows.Forms.Button();
             this.opendbFileDialog = new System.Windows.Forms.OpenFileDialog();
-            this.label1 = new System.Windows.Forms.Label();
+            this.lab_db_reminder = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -176,22 +176,22 @@ namespace ApartmentManager
             this.opendbFileDialog.FileName = "openFileDialog1";
             this.opendbFileDialog.Title = "请选择需要备份的Access数据库文件";
             // 
-            // label1
+            // lab_db_reminder
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.Location = new System.Drawing.Point(334, 48);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(153, 16);
-            this.label1.TabIndex = 14;
-            this.label1.Text = "(数据库备份请双击上方红色字体)";
+            this.lab_db_reminder.AutoSize = true;
+            this.lab_db_reminder.Font = new System.Drawing.Font("Microsoft YaHei UI", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.lab_db_reminder.Location = new System.Drawing.Point(313, 48);
+            this.lab_db_reminder.Name = "lab_db_reminder";
+            this.lab_db_reminder.Size = new System.Drawing.Size(190, 16);
+            this.lab_db_reminder.TabIndex = 14;
+            this.lab_db_reminder.Text = "(数据库备份请双击上方红色字体)√已开启";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 400);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lab_db_reminder);
             this.Controls.Add(this.btn_query);
             this.Controls.Add(this.txt_price);
             this.Controls.Add(this.btn_booking);
@@ -233,7 +233,7 @@ namespace ApartmentManager
         private System.Windows.Forms.TextBox txt_price;
         private System.Windows.Forms.Button btn_query;
         private System.Windows.Forms.OpenFileDialog opendbFileDialog;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lab_db_reminder;
     }
 }
 
