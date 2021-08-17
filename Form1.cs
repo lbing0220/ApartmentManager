@@ -296,7 +296,7 @@ namespace ApartmentManager
             if (result == DialogResult.OK)
             {
                 dbFilePath = opendbFileDialog.FileName;
-                MessageBox.Show("开启数据库备份功能，数据库位置：" + dbFilePath + "\n数据库修改后会即使备份", "数据库备份功能开启");
+                MessageBox.Show("开启数据库备份功能，数据库位置：" + dbFilePath + "\n数据库修改后会及时备份", "数据库备份功能开启");
                 lab_db_reminder.Text = "(数据库备份请双击上方红色字体)√已开启";
             }
             else if(result == DialogResult.Cancel)
